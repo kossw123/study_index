@@ -1,0 +1,494 @@
+{
+  "main": {
+    "id": "128d9d52c9e331df",
+    "type": "split",
+    "children": [
+      {
+        "id": "404e7e7b6a11f0b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a90db3f97086ea9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FastAPI/pydantic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pydantic"
+            }
+          },
+          {
+            "id": "2f19e87530d2d24f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "데이터베이스/sqlmodel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sqlmodel"
+            }
+          },
+          {
+            "id": "91321b0898f468cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "데이터베이스/sqlmodel.Session.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sqlmodel.Session"
+            }
+          },
+          {
+            "id": "60041448a7775eb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "보안/CryptContext.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CryptContext"
+            }
+          },
+          {
+            "id": "b0e052880c187766",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTTP/FastAPI의 Request, Response.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FastAPI의 Request, Response"
+            }
+          },
+          {
+            "id": "a4d31d9b40bd7a0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTTP/FastAPI.Response.set_cookie().md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FastAPI.Response.set_cookie()"
+            }
+          },
+          {
+            "id": "dbcf3f459afb7c48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FastAPI/with...yield.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "with...yield"
+            }
+          },
+          {
+            "id": "4538dfe4cf0148b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend 통신/axios.interceptor.response.use.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "axios.interceptor.response.use"
+            }
+          },
+          {
+            "id": "02e5779ae99bb9ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTTP/200번대 응답.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "200번대 응답"
+            }
+          },
+          {
+            "id": "114dc915d3c2ea50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "웹 기초/Uvicorn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Uvicorn"
+            }
+          },
+          {
+            "id": "e5bcd8d7014ff944",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FastAPI/API Router 정책 정리.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "API Router 정책 정리"
+            }
+          },
+          {
+            "id": "25fd650c28556607",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "웹 기초/웹 서버와 WAS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "웹 서버와 WAS"
+            }
+          },
+          {
+            "id": "0a26d58436403b62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "기타/JSP(Java Server Page).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JSP(Java Server Page)"
+            }
+          },
+          {
+            "id": "6b610a81541bb6ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "웹 기초/로드 밸런싱(Load Balancing).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "로드 밸런싱(Load Balancing)"
+            }
+          },
+          {
+            "id": "a9fecb7bec89c93b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "웹 기초/웹 구조.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "웹 구조"
+            }
+          },
+          {
+            "id": "0128208e2461a1e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Language/비동기 코드가 동기 코드처럼 읽혀야 하는 이유.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "비동기 코드가 동기 코드처럼 읽혀야 하는 이유"
+            }
+          },
+          {
+            "id": "9150093fb6b3df27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "웹 기초/동적 웹 프로그래밍.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "동적 웹 프로그래밍"
+            }
+          },
+          {
+            "id": "cb28b929d5229b60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "웹 기초/웹 서버와 WAS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "웹 서버와 WAS"
+            }
+          },
+          {
+            "id": "ca679dce6a6dff7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "보안/CryptContext.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CryptContext"
+            }
+          }
+        ],
+        "currentTab": 18
+      },
+      {
+        "id": "ff8b2233e4778001",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c55b05999a0668d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4dd418528fe5b43f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cebae62bc0f683f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7074df978b96b6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "f43ce0b65785817a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#http",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "595566ad15317a42",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ef80f351395d4462",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbc7c9ed93c18533",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a57e22c1e0f311d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "데이터베이스/sqlmodel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "sqlmodel 의 백링크"
+            }
+          },
+          {
+            "id": "b950fd7d3dcb92f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "데이터베이스/sqlmodel.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "sqlmodel 의 나가는 링크"
+            }
+          },
+          {
+            "id": "410eb4723f4a7df5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "3e987f5441f03729",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "a84087c147152324",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "데이터베이스/sqlmodel.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "sqlmodel 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "ca679dce6a6dff7d",
+  "lastOpenFiles": [
+    "보안/Map.md",
+    "보안/CryptContext.md",
+    "Total map.md",
+    "데이터베이스/sqlmodel.md",
+    "데이터베이스/Map.md",
+    "기타/Map.md",
+    "기타/JSP(Java Server Page).md",
+    "Language/Map.md",
+    "Language/async과 await의 이해.md",
+    "Language/비동기 코드가 동기 코드처럼 읽혀야 하는 이유.md",
+    "HTTP/Map.md",
+    "웹 기초/Map.md",
+    "FastAPI/Map.md",
+    "FastAPI/FastAPI.lifespan.md",
+    "HTTP/200번대 응답.md",
+    "HTTP/FastAPI.Response.set_cookie().md",
+    "HTTP/FastAPI의 Request, Response.md",
+    "HTTP/URL 주소 구조 분석.md",
+    "Frontend 통신/axios.interceptor.response.use.md",
+    "Frontend 통신/Map.md",
+    "FastAPI/pydantic.md",
+    "FastAPI/with...yield.md",
+    "데이터베이스/sqlmodel.Session.md",
+    "FastAPI/API Router 정책 정리.md",
+    "웹 기초/Uvicorn.md",
+    "웹 기초/프록시(Proxy).md",
+    "기타",
+    "Language",
+    "Frontend 통신",
+    "보안",
+    "데이터베이스",
+    "FastAPI",
+    "웹 기초",
+    "Backend framework",
+    "HTTP",
+    "웹 기초"
+  ]
+}
