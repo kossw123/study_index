@@ -265,12 +265,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "보안/CryptContext.md",
+                "file": "보안/UUID.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CryptContext"
+              "title": "UUID"
             }
           }
         ],
@@ -454,8 +454,10 @@
   },
   "active": "ca679dce6a6dff7d",
   "lastOpenFiles": [
-    "보안/Map.md",
     "보안/CryptContext.md",
+    "보안/Map.md",
+    "보안/UUID.md",
+    "무제.md",
     "Total map.md",
     "데이터베이스/sqlmodel.md",
     "데이터베이스/Map.md",
@@ -478,8 +480,6 @@
     "FastAPI/with...yield.md",
     "데이터베이스/sqlmodel.Session.md",
     "FastAPI/API Router 정책 정리.md",
-    "웹 기초/Uvicorn.md",
-    "웹 기초/프록시(Proxy).md",
     "기타",
     "Language",
     "Frontend 통신",
