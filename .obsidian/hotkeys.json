@@ -1,0 +1,18 @@
+{
+  "terminal:open-terminal.developerConsole": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ],
+  "lean-terminal:first-terminal-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ]
+}
