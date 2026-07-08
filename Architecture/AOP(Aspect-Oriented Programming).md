@@ -74,6 +74,9 @@ say_hello()
 
 ```
 
+### 참고 자료
+
+- https://www.egovframe.go.kr/wiki/doku.php?id=egovframework:rte4.3:fdl:aop
 
 ## 관련 개념
 
