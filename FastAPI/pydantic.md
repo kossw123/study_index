@@ -15,11 +15,13 @@ Pydantic은 BaseModel을 상속받은 객체를 통해 원하는 데이터 틀�
 
 그리고 FastAPI Router에 꽂아주면, FastAPI가 들어오는 데이터를 이 틀에 합격했는지 알아서 검사한다.
 
+```
 from pydantic import BaseModel
 
 class LoginRequest(BaseModel):
 	username: str | None = None  // 타입 힌트와 기본값을 통한 데이터 검증
 	password: str
+```
 
 그리고 웬만하면 데이터를 규격에 맞게 알아서 캐스팅해준다.
 
@@ -43,7 +45,6 @@ pydantic v2와 rust란게 등장했는데, v2는 버전 업그레이드고, rust
 e.g)
 
 - FastAPI에서 JSON을 처리할 때는 model_validate(json.loads(data)) 대신에 rust 엔진을바로 타는 다음과 같은 라이브러리나 함수를 사용한다.
-
 - model_validate_json(data)
 
 ## 프로젝트에서는 어디에서 사용하는가?

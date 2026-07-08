@@ -25,7 +25,9 @@ http://localhost:3000/users/profiles
 fastapi는 미들웨어에서 설정한 allow_origins의 값들로 도메인 주소를 인식한다.
 그리고 뒤에 있는 경로를 대분류 + 소분류로 분류한다.
 
+```
 auth_router = APIRouter(prefix="/auth", tags=["login"])
+```
 
 APIRouter에서 대분류는 prefix로 분류하고 소분류는 router 함수를 선언할 때 decorator를 통해 소분류 경로만 지정하면 된다.
 

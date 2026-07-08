@@ -12,9 +12,11 @@
 
 yield는 호출자에게 값을 반환하고 함수의 실행을 일시적으로 중지시킨다.
 
+```
 def get_uow():
     with Session(engine) as session:
         yield UnitOfWork(session)
+```
 
 이 코드와 같은 경우는 다음과 같이 절차적으로 실행된다.
 

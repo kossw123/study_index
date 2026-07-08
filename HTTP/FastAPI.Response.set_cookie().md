@@ -1,6 +1,3 @@
-  
-
-
 ```
 def set_cookie(
     key: str,
