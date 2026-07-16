@@ -66,7 +66,7 @@ Host: api.toss.im
 Authorization: Bearer test_key_123456
 ```
 
-코드를 사용할 때는 주의가 필요합니다.
+
 
 2. 서버의 응답 (JSON)
 
