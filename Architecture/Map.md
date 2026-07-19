@@ -1,6 +1,5 @@
 # A
 - [[AOP(Aspect-Oriented Programming)]]
-- [[API 명세서]]
 # B
 # C
 - [[CQRS(명령 쿼리 책임 분리)]]
@@ -19,7 +18,6 @@
 # P
 # Q
 # R
-- [[REST API]]
 # S
 # T
 # U
