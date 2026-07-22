@@ -22,6 +22,7 @@
 # U
 - [[UUID]]
 - [[UUID4]]
+- [[UUID7]]
 # V
 # W
 # X

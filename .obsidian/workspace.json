@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7faa4b4f0c261e20",
+        "id": "2954677e6386c77e",
         "type": "split",
         "children": [
           {
@@ -17,22 +17,22 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Frontend 통신/Map.md",
+                    "file": "DDD/Aggregate.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Map"
+                  "title": "Aggregate"
                 }
               }
             ]
           },
           {
-            "id": "994b47b72d31c7ec",
+            "id": "7437653a97796182",
             "type": "tabs",
             "children": [
               {
-                "id": "7760787fe9be923c",
+                "id": "42708735b400657e",
                 "type": "leaf",
                 "state": {
                   "type": "terminal-view",
@@ -42,7 +42,7 @@
                         "name": "Terminal 1",
                         "color": "",
                         "cwd": "D:\\Desktop for D\\Obsidian_data\\CS",
-                        "bufferSerial": "Microsoft Windows [Version 10.0.19045.7548]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>git add .\r\nwarning: in the working copy of '.obsidian/app.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/community-plugins.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/core-plugins.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'Architecture/Map.md', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'Frontend 통신/Map.md', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'Frontend 통신/API 명세서.md', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'Frontend 통신/API(Application Programming Interface).md', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'Frontend 통신/REST API.md', LF will be replaced by CRLF the next time Git touches it\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>git "
+                        "bufferSerial": "Microsoft Windows [Version 10.0.19045.7548]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>"
                       }
                     ],
                     "activeIndex": 0
@@ -217,12 +217,22 @@
       "lean-terminal:Open terminal": false
     }
   },
-  "active": "0d0b1db455cfe9cb",
+  "active": "42708735b400657e",
   "lastOpenFiles": [
+    "Architecture/AOP(Aspect-Oriented Programming).md",
+    "Architecture/CQRS(명령 쿼리 책임 분리).md",
+    "DDD/Aggregate.md",
+    "보안/UUID1.md",
+    "DDD",
+    "보안/UUID4.md",
+    "보안/UUID.md",
+    "보안/UUID7.md",
+    "보안/Map.md",
+    "Total map.md",
     "Frontend 통신/API(Application Programming Interface).md",
+    "Frontend 통신/Map.md",
     "Frontend 통신/API 명세서.md",
     "Frontend 통신/axios.interceptor.response.use.md",
-    "Frontend 통신/Map.md",
     "Architecture/Map.md"
   ]
 }

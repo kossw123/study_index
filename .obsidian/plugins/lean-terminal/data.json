@@ -1,0 +1,85 @@
+{
+  "shellPath": "",
+  "shellPathWin": "",
+  "shellPathMac": "",
+  "shellPathLinux": "",
+  "startupCommand": "",
+  "fontSize": 14,
+  "fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+  "lineHeight": 1,
+  "theme": "auto",
+  "backgroundColor": "",
+  "cursorBlink": true,
+  "cursorStyle": "block",
+  "copyOnSelect": false,
+  "scrollback": 5000,
+  "ribbonIcon": "terminal",
+  "defaultLocation": "bottom",
+  "notifyOnCompletion": false,
+  "notificationSound": "beep",
+  "notificationVolume": 50,
+  "searchShortcut": "Ctrl+Alt+F",
+  "persistBuffer": true,
+  "recentSessionsMax": 10,
+  "recentSessions": [
+    {
+      "name": "Terminal 1",
+      "color": "",
+      "cwd": "D:\\Desktop for D\\Obsidian_data\\CS",
+      "bufferSerial": "Microsoft Windows [Version 10.0.19045.7548]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>git add .\r\nwarning: in the working copy of '.obsidian/app.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/community-plugins.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/core-plugins.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'Architecture/Map.md', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'Frontend 통신/Map.md', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'Frontend 통신/API 명세서.md', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'Frontend 통신/API(Application Programming Interface).md', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'Frontend 통신/REST API.md', LF will be replaced by CRLF the next time Git touches it\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>git .\r\ngit: '.' is not a git command. See 'git --help'.\r\n\r\nThe most similar commands are     \r\n        am\r\n        gc\r\n        mv\r\n        p4\r\n        rm\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>git add .\r\nwarning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'Frontend 통신/Map.md', LF will be replaced by CRLF the next time Git touches it\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>git commit -m \"API update\"\r\n[main d27eb57] API update\r\n 6 files changed, 93 insertions(+), 77 deletions(-)\r\n rename \"Architecture/API \\353\\252\\205\\354\\204\\270\\354\\204\\234.md\" => \"Frontend \\355\\206\\265\\354\\213\\240/API \\353\\252\\205\\354\\204\\270\\354\\204\\234.md\" (97%)\r\n create mode 100644 \"Frontend \\355\\206\\265\\354\\213\\240/API(Application Programming Interface).md\"\r\n rename Architecture/REST API.md => \"Frontend \\355\\206\\265\\354\\213\\240/REST API.md\" (100%)\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>git push origin main\r\nTo https://github.com/kossw123/study_index\r\n \u001b[31m! [rejected]       \u001b[0m main -> main (fetch first)\r\n\u001b[31merror: failed to push some refs to 'https://github.com/kossw123/study_index'\r\n\u001b[33mhint: Updates were rejected because the remote contains work that you do\r\nhint: not have locally. This is usually caused by another repository pushing\r\nhint: to the same ref. You may want to first integrate the remote changes\r\nhint: (e.g., 'git pull ...') before pushing again.\r\nhint: See the 'Note about fast-forwards' in 'git push --help' for details.\r\n\r\n\u001b[0mD:\\Desktop for D\\Obsidian_data\\CS>git pull origin main\r\nremote: Enumerating objects: 7, done.\r\nremote: Counting objects: 100% (7/7), done.\r\nremote: Compressing objects: 100% (4/4), done.\r\nremote: Total 4 (delta 3), reused 0 (delta 0), pack-reused 0 (from 0)\r\nUnpacking objects: 100% (4/4), 1010 bytes | 4.00 KiB/s, done.\r\nFrom https://github.com/kossw123/study_index\r\n * branch            main       -> FETCH_HEAD\r\n   e958038..3fca2c4  main       -> origin/main\r\nwarning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it\r\nMerge made by the 'ort' strategy.\r\nMicrosoft Windows [Version 10.0.19045.7548]\r\nMicrosoft Windows [Version 10.0.19045.7548]\r\nMicrosoft Windows [Version 10.0.19045.7548]\r\nMicrosoft Windows [Version 10.0.19045.7548]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[21A\u001b[34C",
+      "closedAt": 1784721397281
+    }
+  ],
+  "enableClaudeIntegration": false,
+  "claudeSessionsDir": "",
+  "claudeRegistryPath": "claude-sessions.md",
+  "claudeSessionsMax": 25,
+  "tabColorTintsBackground": true,
+  "tabColors": [
+    {
+      "name": "None",
+      "value": "",
+      "tintStrength": 0,
+      "builtin": true
+    },
+    {
+      "name": "Vermilion",
+      "value": "#FC3634",
+      "tintStrength": 12,
+      "builtin": true
+    },
+    {
+      "name": "Sky Blue",
+      "value": "#25D0F7",
+      "tintStrength": 12,
+      "builtin": true
+    },
+    {
+      "name": "Gold",
+      "value": "#FFD700",
+      "tintStrength": 12,
+      "builtin": true
+    },
+    {
+      "name": "Mint",
+      "value": "#18BC9C",
+      "tintStrength": 12,
+      "builtin": true
+    },
+    {
+      "name": "Azure",
+      "value": "#007BFF",
+      "tintStrength": 12,
+      "builtin": true
+    },
+    {
+      "name": "Purple",
+      "value": "#A991D4",
+      "tintStrength": 12,
+      "builtin": true
+    }
+  ],
+  "tabBarPosition": "top",
+  "wikiLinkAutocomplete": false,
+  "wikiLinkInsertMode": "wikilink"
+}
