@@ -1,16 +1,12 @@
 
 ## 왜 필요한가?
 
-가장 강력하게 사용되는 곳은 미들웨어에서 Request를 낚아채서 검사, 응답이 나가기 직전에 Response에 공용 헤더를 붙이는 작업을 수행한다.
-
+- 가장 강력하게 사용되는 곳은 미들웨어에서 Request를 낚아채서 검사, 응답이 나가기 직전에 Response에 공용 헤더를 붙이는 작업을 수행한다.
 
 # 정의
 
-클라이언트의 요청과 서버의 응답을
-
-날것(Raw) 그대로 제어할 수 있게 해주는 “데이터 객체”
-
-내부적으로 starlette.requests.Request와 starlette.responses.Response를 그대로 사용한다.
+- 클라이언트의 요청과 서버의 응답을 날것(Raw) 그대로 제어할 수 있게 해주는 “데이터 객체”
+- 내부적으로 starlette.requests.Request와 starlette.responses.Response를 그대로 사용한다.
 
 ### Request 객체(클라이언트의 요청 정보)
 
@@ -74,7 +70,6 @@ async def login(response: Response):
 ## 프로젝트에서는 어디에서 사용하는가?
 
 - ASGI(Uvicorn)을 통해 요청된 데이터를 통해 쿠키를 구워 token을 설정한다.
-
 
 ## 관련 개념
 
