@@ -29,6 +29,7 @@
 # W
 - [[웹 구조]]
 - [[웹 서버와 WAS]]
+- [[WSGI (Web server Gateway Interface)]]
 
 # X
 # Y
