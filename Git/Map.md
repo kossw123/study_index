@@ -20,7 +20,7 @@
 # P
 # Q
 # R
-- [[06. Git reset]]
+- [[06-0. Git reset]]
 - [[08. Git rebase]]
 - [[09. Git revert]]
 - [[11. Git reflog]]
