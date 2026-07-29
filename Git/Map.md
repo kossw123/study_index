@@ -21,6 +21,7 @@
 # Q
 # R
 - [[06-0. Git reset]]
+- [[06-1. Git reset ~ commit 쪼개기]]
 - [[08. Git rebase]]
 - [[09. Git revert]]
 - [[11. Git reflog]]
