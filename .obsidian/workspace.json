@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4a5b900920cb654f",
+        "id": "f382f2eac240216f",
         "type": "split",
         "children": [
           {
@@ -17,22 +17,22 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Git/Map.md",
+                    "file": "DDD/DDD 관점에서 진짜 문제(Problem space)를 뽑아보자..md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Map"
+                  "title": "DDD 관점에서 진짜 문제(Problem space)를 뽑아보자."
                 }
               }
             ]
           },
           {
-            "id": "b75b1fe986a889c4",
+            "id": "3bf83ad86170541d",
             "type": "tabs",
             "children": [
               {
-                "id": "f25714da14f68f3b",
+                "id": "80de8d7858f3f004",
                 "type": "leaf",
                 "state": {
                   "type": "terminal-view",
@@ -42,7 +42,7 @@
                         "name": "Terminal 1",
                         "color": "",
                         "cwd": "D:\\Desktop for D\\Obsidian_data\\CS",
-                        "bufferSerial": "Microsoft Windows [Version 10.0.19045.7548]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>git add .\r\nwarning: in the working copy of '.obsidian/app.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/community-plugins.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/core-plugins.json', LF will be replaced by CRLF the next time Git touches it\r\nMicrosoft Windows [Version 10.0.19045.7548]\r\nMicrosoft Windows [Version 10.0.19045.7548]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>git add .\r\nwarning: in the working copy of '.obsidian/app.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/community-plugins.json', LF will be replaced by CRLF the next time Git touches it\r\nMicrosoft Windows [Version 10.0.19045.7548]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>git add .\r\nwarning: in the working copy of '.obsidian/app.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/community-plugins.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/core-plugins.json', LF will be replaced by CRLF the next time Git touches it     \r\nwarning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '웹 기초/Map.md', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '웹 기초/WSGI (Web server Gateway Interface).md', LF will be replaced by CRLF the next time Git touches it\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>git commit -m \"WSGI update\"\r\n[main 598558a] WSGI update\r\n 3 files changed, 67 insertions(+), 48 deletions(-)\r\n create mode 100644 \"\\354\\233\\271 \\352\\270\\260\\354\\264\\210/WSGI (Web server Gateway Interface).md\"\r\n\r\nMicrosoft Windows [Version 10.0.19045.7548]\r\nMicrosoft Windows [Version 10.0.19045.7548]\r\nMicrosoft Windows [Version 10.0.19045.7548]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>git add .\r\nwarning: in the working copy of '.obsidian/app.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/community-plugins.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/core-plugins.json', LF will be replaced by CRLF the next time Git touches it     \r\nwarning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'DDD/Map.md', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'DDD/DDD (Domain-Driven-Development).md', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'DDD/Domain.md', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'Git/06-0. Git reset.md', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'Git/06-1. Git reset ~ commit 쪼개기.md', LF will be replaced by CRLF the next time Git touches it\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>git commit -m \"DDD update\"\r\n[main 3bd25a5] DDD update\r\n 7 files changed, 110 insertions(+), 13 deletions(-)\r\n create mode 100644 DDD/DDD (Domain-Driven-Development).md\r\n create mode 100644 DDD/Domain.md\r\n rename Git/{06. Git reset.md => 06-0. Git reset.md} (100%)\r\n create mode 100644 \"Git/06-1. Git reset ~ commit \\354\\252\\274\\352\\260\\234\\352\\270\\260.md\"\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>git push origin main\r\nEnumerating objects: 18, done.\r\nCounting objects: 100% (18/18), done.  \r\nDelta compression using up to 4 threads\r\nCompressing objects: 100% (10/10), done.\r\nWriting objects: 100% (11/11), 2.97 KiB | 760.00 KiB/s, done.\r\nMicrosoft Windows [Version 10.0.19045.7548]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[22A\u001b[34C"
+                        "bufferSerial": "Microsoft Windows [Version 10.0.19045.7548]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>"
                       }
                     ],
                     "activeIndex": 0
@@ -217,15 +217,17 @@
       "lean-terminal:Open terminal": false
     }
   },
-  "active": "0d0b1db455cfe9cb",
+  "active": "80de8d7858f3f004",
   "lastOpenFiles": [
-    "Git/06-1. Git reset ~ commit 쪼개기.md",
+    "무제.md",
+    "DDD/DDD 관점에서 진짜 문제(Problem space)를 뽑아보자..md",
+    "DDD/Map.md",
     "Git/Map.md",
+    "Git/06-1. Git reset ~ commit 쪼개기.md",
     "Git/06-0. Git reset.md",
     "Git/09. Git revert.md",
     "Git/10. Git stash.md",
     "DDD/Domain.md",
-    "DDD/Map.md",
     "DDD/DDD (Domain-Driven-Development).md",
     "Git/02. Git 내부 구조.md",
     "웹 기초/웹 서버와 WAS (Web Application Server).md",
@@ -237,14 +239,12 @@
     "HTTP/FastAPI의 Request, Response.md",
     "FastAPI/API Router 정책 정리.md",
     "Total map.md",
-    "무제.md",
     "HTTP/200번대 응답.md",
     "보안/UUID7.md",
     "보안/UUID1.md",
     "웹 기초/프록시(Proxy).md",
     "웹 기초/로드 밸런싱(Load Balancing).md",
     "웹 기초/정적 웹 프로그래밍.md",
-    "HTTP/Requests.md",
     "DDD"
   ]
 }

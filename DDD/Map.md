@@ -4,6 +4,7 @@
 # C
 # D
 - [[DDD (Domain-Driven-Development)]]
+- [[DDD 관점에서 진짜 문제(Problem space)를 뽑아보자.]]
 # E
 # F
 # G
