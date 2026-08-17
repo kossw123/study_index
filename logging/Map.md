@@ -1,1 +1,2 @@
 - [[LGTM (Loki, Grafana, Tempo, Metric)]]
+- [[Python.logging]]
