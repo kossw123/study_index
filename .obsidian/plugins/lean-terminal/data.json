@@ -23,6 +23,13 @@
   "recentSessionsMax": 10,
   "recentSessions": [
     {
+      "name": "Terminal 3",
+      "color": "",
+      "cwd": "D:\\Desktop for D\\Obsidian_data\\CS\\",
+      "bufferSerial": "Microsoft Windows [Version 10.0.19045.7663]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>",
+      "closedAt": 1787055194422
+    },
+    {
       "name": "Terminal 1",
       "color": "",
       "cwd": "D:\\Desktop for D\\Obsidian_data\\CS",

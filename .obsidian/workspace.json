@@ -17,15 +17,72 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "웹 기초/DNS (Domain Name System).md",
+                    "file": "2. Web Architecture & Infra/아키텍처 패턴 (DDD 포함)/AOP(Aspect-Oriented Programming).md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "AOP(Aspect-Oriented Programming)"
+                }
+              },
+              {
+                "id": "8220a86eb803857b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. Web Architecture & Infra/웹 서버 & 게이트웨이/ASGI (Asynchronous Server Gateway Interface).md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "DNS (Domain Name System)"
+                  "title": "ASGI (Asynchronous Server Gateway Interface)"
+                }
+              },
+              {
+                "id": "0d4ac72ddc8c8db1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. Web Architecture & Infra/웹 구조.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "웹 구조"
+                }
+              },
+              {
+                "id": "f81b967579bf66dc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3. Backend Development/프로그래밍 언어 (Async)/async과 await의 이해.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "async과 await의 이해"
+                }
+              },
+              {
+                "id": "60c9d90a47a79bee",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3. Backend Development/프로그래밍 언어 (Async)/동적 웹 프로그래밍.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "동적 웹 프로그래밍"
                 }
               }
-            ]
+            ],
+            "currentTab": 4
           },
           {
             "id": "3784a38b79815117",
@@ -42,7 +99,7 @@
                         "name": "Terminal 1",
                         "color": "",
                         "cwd": "D:\\Desktop for D\\Obsidian_data\\CS",
-                        "bufferSerial": "Microsoft Windows [Version 10.0.19045.7663]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>git add .\r\nwarning: in the working copy of '.obsidian/app.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/community-plugins.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/core-plugins.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/plugins/lean-terminal/data.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'logging/Map.md', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'logging/Python.logging.md', LF will be replaced by CRLF the next time Git touches it\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>git commit -m \"python.logging update\"\r\n[main b8697ad] python.logging update\r\n 4 files changed, 149 insertions(+), 15 deletions(-)\r\n create mode 100644 logging/Python.logging.md       \r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>git push origin main\r\nEnumerating objects: 18, done.\r\nCounting objects: 100% (18/18), done.\r\nDelta compression using up to 4 threads\r\nCompressing objects: 100% (9/9), done.\r\nWriting objects: 100% (10/10), 5.50 KiB | 1.10 MiB/s, done.\r\nTotal 10 (delta 5), reused 0 (delta 0), pack-reused 0      \r\nremote: Resolving deltas: 100% (5/5), completed with 4 local objects.\r\nTo https://github.com/kossw123/study_index\r\n   808bcdd..b8697ad  main -> main\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>git add .\r\nwarning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'logging/LGTM (Loki, Grafana, Tempo, Metric).md', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '데이터베이스/TSDB (Time Series DataBase).md', LF will be replaced by CRLF the next time Git touches it\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>git commit -m \"TSDB update\"\r\n[main 79def02] TSDB update\r\n 3 files changed, 104 insertions(+), 14 deletions(-)\r\n create mode 100644 \"\\353\\215\\260\\354\\235\\264\\355\\204\\260\\353\\262\\240\\354\\235\\264\\354\\212\\244/TSDB (Time Series DataBase).md\"\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>git push origin main\r\nEnumerating objects: 14, done.\r\nCounting objects: 100% (14/14), done.\r\nDelta compression using up to 4 threads\r\nCompressing objects: 100% (8/8), done.\r\nWriting objects: 100% (8/8), 3.82 KiB | 979.00 KiB/s, done.\r\nTotal 8 (delta 5), reused 0 (delta 0), pack-reused 0\r\nMicrosoft Windows [Version 10.0.19045.7663]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[21A\u001b[34C"
+                        "bufferSerial": "Microsoft Windows [Version 10.0.19045.7663]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>git add .\r\nwarning: in the working copy of '.obsidian/app.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/community-plugins.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/core-plugins.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/plugins/lean-terminal/data.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'logging/Map.md', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'logging/Python.logging.md', LF will be replaced by CRLF the next time Git touches it\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>git commit -m \"python.logging update\"\r\n[main b8697ad] python.logging update\r\n 4 files changed, 149 insertions(+), 15 deletions(-)\r\n create mode 100644 logging/Python.logging.md       \r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>git push origin main\r\nEnumerating objects: 18, done.\r\nCounting objects: 100% (18/18), done.\r\nDelta compression using up to 4 threads\r\nCompressing objects: 100% (9/9), done.\r\nWriting objects: 100% (10/10), 5.50 KiB | 1.10 MiB/s, done.\r\nTotal 10 (delta 5), reused 0 (delta 0), pack-reused 0      \r\nremote: Resolving deltas: 100% (5/5), completed with 4 local objects.\r\nTo https://github.com/kossw123/study_index\r\n   808bcdd..b8697ad  main -> main\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>git add .\r\nwarning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of 'logging/LGTM (Loki, Grafana, Tempo, Metric).md', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '데이터베이스/TSDB (Time Series DataBase).md', LF will be replaced by CRLF the next time Git touches it\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>git commit -m \"TSDB update\"\r\n[main 79def02] TSDB update\r\n 3 files changed, 104 insertions(+), 14 deletions(-)\r\n create mode 100644 \"\\353\\215\\260\\354\\235\\264\\355\\204\\260\\353\\262\\240\\354\\235\\264\\354\\212\\244/TSDB (Time Series DataBase).md\"\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>git push origin main\r\nEnumerating objects: 14, done.\r\nCounting objects: 100% (14/14), done.\r\nDelta compression using up to 4 threads\r\nCompressing objects: 100% (8/8), done.\r\nWriting objects: 100% (8/8), 3.82 KiB | 979.00 KiB/s, done.\r\nTotal 8 (delta 5), reused 0 (delta 0), pack-reused 0\r\nMicrosoft Windows [Version 10.0.19045.7663]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>git add .\r\nwarning: in the working copy of '.obsidian/app.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/community-plugins.json', LF will be replaced by CRLF the next time Git touches it\r\nMicrosoft Windows [Version 10.0.19045.7663]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nD:\\Desktop for D\\Obsidian_data\\CS>g\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[21A\u001b[35C"
                       }
                     ],
                     "activeIndex": 0
@@ -216,38 +273,47 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "bases:새 베이스 생성하기": false,
-      "lean-terminal:Open terminal": false
+      "lean-terminal:Open terminal": false,
+      "file-tree-generator:Generate file tree": false
     }
   },
   "active": "295bbc4508148e6c",
   "lastOpenFiles": [
-    "웹 기초/프록시(Proxy).md",
-    "웹 기초/DNS (Domain Name System).md",
     "Total map.md",
-    "데이터베이스/TSDB (Time Series DataBase).md",
-    "logging/LGTM (Loki, Grafana, Tempo, Metric).md",
-    "데이터베이스/UnitOfWork.md",
-    "logging/Map.md",
-    "logging/Python.logging.md",
-    "HTTP/FastAPI의 Request, Response.md",
-    "HTTP/FastAPI.Response.set_cookie().md",
-    "logging/Loki.md",
-    "HTTP/HTTP Protocol.md",
-    "HTTP/200번대 응답.md",
-    "웹 기초/웹 서버와 WAS (Web Application Server).md",
-    "logging",
-    "웹 기초/웹 구조.md",
-    "Language/Map.md",
-    "Language/비동기 코드가 동기 코드처럼 읽혀야 하는 이유.md",
-    "FastAPI/Map.md",
-    "FastAPI/API Router 데코레이터(decorator) 설정.md",
-    "FastAPI/API Router 정책 정리.md",
-    "Frontend 통신/Map.md",
-    "Frontend 통신/페이징 (Paging, Pagination).md",
-    "Git/06-0. Git reset.md",
-    "Frontend 통신/API 명세서.md",
-    "Frontend 통신/쿼리 스트링 (Query String).md",
-    "Git/10. Git stash.md",
-    "DDD"
+    "Architecture/Map.md",
+    "3. Backend Development/프로그래밍 언어 (Async)/동적 웹 프로그래밍.md",
+    "3. Backend Development/레거시 기술 (JSP)/MOC.md",
+    "3. Backend Development/프로그래밍 언어 (Async)/비동기 코드가 동기 코드처럼 읽혀야 하는 이유.md",
+    "3. Backend Development/프로그래밍 언어 (Async)/async과 await의 이해.md",
+    "3. Backend Development/프로그래밍 언어 (Async)/정적 웹 프로그래밍.md",
+    "2. Web Architecture & Infra/웹 구조.md",
+    "2. Web Architecture & Infra/웹 서버 & 게이트웨이/ASGI (Asynchronous Server Gateway Interface).md",
+    "2. Web Architecture & Infra/웹 서버 & 게이트웨이/MOC.md",
+    "2. Web Architecture & Infra/웹 서버 & 게이트웨이/WSGI (Web server Gateway Interface).md",
+    "3. Backend Development/프로그래밍 언어 (Async)/MOC.md",
+    "2. Web Architecture & Infra/아키텍처 패턴 (DDD 포함)/AOP(Aspect-Oriented Programming).md",
+    "2. Web Architecture & Infra/아키텍처 패턴 (DDD 포함)/CQRS(명령 쿼리 책임 분리).md",
+    "2. Web Architecture & Infra/아키텍처 패턴 (DDD 포함)/MOC.md",
+    "2. Web Architecture & Infra/모니터링 & 로깅/MOC.md",
+    "4. Data Management/데이터베이스 (ORM)/MOC.md",
+    "1. Computer Science/네트워크 & 통신/DNS (Domain Name System).md",
+    "1. Computer Science/보안 & 인증/CryptContext.md",
+    "1. Computer Science/보안 & 인증/MOC.md",
+    "1. Computer Science/보안 & 인증/UUID.md",
+    "무제.md",
+    "1. Computer Science/네트워크 & 통신/MOC.md",
+    "4. Data Management/데이터베이스 (ORM)",
+    "4. Data Management",
+    "3. Backend Development/레거시 기술 (JSP)",
+    "3. Backend Development/API 디자인 & 통신/MOC.md",
+    "3. Backend Development/API 디자인 & 통신",
+    "3. Backend Development/FastAPI/MOC.md",
+    "3. Backend Development/FastAPI",
+    "3. Backend Development/프로그래밍 언어 (Async)",
+    "3. Backend Development",
+    "2. Web Architecture & Infra/모니터링 & 로깅",
+    "2. Web Architecture & Infra/웹 서버 & 게이트웨이",
+    "2. Web Architecture & Infra/아키텍처 패턴 (DDD 포함)",
+    "1. Computer Science/Git/MOC.md"
   ]
 }
