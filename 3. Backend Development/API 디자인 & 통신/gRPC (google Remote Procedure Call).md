@@ -260,3 +260,5 @@ Public API ↔ Client
 - 디버깅 편의성이 중요
 
 ## 관련 개념
+
+#RPC , #server, #back , #backend
