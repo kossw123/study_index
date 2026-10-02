@@ -6,8 +6,8 @@
 
 ## 정의
 
-- FastAPI가 표준으로 추천하는 라이브러리다.
-- CryptContext는 내부적으로 Bcrypt2, Argon2, Pbkdf2 같은 단방향 암호화 알고리즘을 사용한다.
+- FastAPI가 표준으로 추천하는 `Passlib`라이브러리의 기능이다.
+- CryptContext는 내부적으로 bcrypt, Argon2, Pbkdf2 같은 단방향 암호화 알고리즘을 사용한다.
 
 ## 동작 과정
 
@@ -15,7 +15,7 @@
 - hash(password):
 	- 비밀번호 문자열을 해시값으로 변환
 - verify(plain_password, hashed_password):
-	- 입력한 비밀번호가 DB에 저장된 암호문과 일치 비교, bool타입으로 반환
+	- 입력한 비밀번호가 DB에 저장된 해시값과 일치 비교, bool타입으로 반환
 
 ## 장점
 
