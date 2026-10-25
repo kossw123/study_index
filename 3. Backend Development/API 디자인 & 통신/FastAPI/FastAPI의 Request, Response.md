@@ -4,6 +4,7 @@
 
 ## 정의
 
+- 들어오거나 보내는 HTTP 데이터에 개발자가 쉽게 접근하고 제어할 수 있도록 인터페이스를 제공하는 도구다.
 - FastAPI가 제공하는 `Request`와 `Response` 객체는 내부적으로 파이썬 ASGI 표준 프레임워크인 **Starlette의 `starlette.requests.Request`와 `starlette.responses.Response` 객체를 그대로 상속받아 사용**한다.
 
 ---
